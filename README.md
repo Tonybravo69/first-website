@@ -18,3 +18,16 @@ Todo List
 | Attributes | Rating      |
 | ------     | -----       |
 | 1,000 TPS. | ⭐️⭐️⭐️⭐️⭐️ |
+
+
+## Use Cases
+
+*Bank adoption*
+
+**29 banks leveraging XRP**
+
+| Bank       | Assets Under Management |
+| ----       | ----------------------- |
+| SBI        | $200 Trillion           |
+| Sendfriend | $10 Million             |
+| RBI        | $3 Trillion             |
